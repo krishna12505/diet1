@@ -1,0 +1,14 @@
+header {
+    background-color: red;
+}
+.login {
+    background-color: blue;
+    border: 10px solid yellowgreen;
+    padding-left: 10px;
+    margin: auto;
+    height: 100px;
+    width: 300px;
+}
+.button{
+    background-color: pink;
+}
